@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(217, 202, 202);
+}
+
+.card{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 5px ;
+    margin-left: 10px;
+}
+.next{
+    font-family: monospace;
+}
+h2{
+    font-weight: bold;
+}
+.button{
+    width: 150px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    display: block;
+    margin: 10px auto;
+}

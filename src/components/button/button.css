@@ -1,0 +1,17 @@
+.buttonCard{
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+.buttonName{
+    width: 90%;
+    height: 90%;
+    font-weight: 600;
+    font-size: 20px;
+    color: red;
+    display: block;
+    border:1px solid red;
+    background-color: black;
+    margin: 2px auto;
+}
